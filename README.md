@@ -1,3 +1,4 @@
-# invie-git
-Pagina de Guitarra pruebas
-incluye las mejores guitarras invie
+# invie
+Las guitarras más locas
+
+http://leonidasesteban.github.io/invie-responsive/
